@@ -1,6 +1,6 @@
 # Dashboard211122
 
-git clone https://github.com/dvpg/Dashboard211122.git to a folder
+git clone to a folder
 
 In the terminal 
 
